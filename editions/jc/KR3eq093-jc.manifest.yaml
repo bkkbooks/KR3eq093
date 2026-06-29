@@ -1,0 +1,4374 @@
+canonical_identifier: bkk:krp/KR3eq093/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq093/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蠢子醫
+  identifiers:
+    krp: KR3eq093
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq093.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq093_000-jc.yaml, hash: 'sha256:ac4e63db196d1b24d971e453fcd76a6d654bd2284e823e0f02d0814deb9e2739'}
+  - {seq: 1, filename: KR3eq093_001-jc.yaml, hash: 'sha256:ed02f3d3ff822dbdbcceec97597f0811f168910e5df50206bc3a7658499ab719'}
+  - {seq: 2, filename: KR3eq093_002-jc.yaml, hash: 'sha256:342aacd7bf3b9ee50f046fff81d8aee94058ff0b85e516df8b70eefea8b45b2a'}
+  - {seq: 3, filename: KR3eq093_003-jc.yaml, hash: 'sha256:923913662e9951ded2fd292a39ebf738a28bf60bd8c54f816c8c84db8f2bec62'}
+  - {seq: 4, filename: KR3eq093_004-jc.yaml, hash: 'sha256:894417a567bdba67d9be49b29a5c66a11565d84b4b7da40ae5e05a621d57f543'}
+  - {seq: 0, filename: KR3eq093_000-jc.yaml, hash: 'sha256:2e5e9f78c01221daf79895e6d4c4c6aa9ab37e028d43e920d040624e91f1d771'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq093_000-jc.markers.yaml, hash: 'sha256:b3d77b866a6d006801b91af938ba08cdcba864071d46603a68aa3ad477fe2bd9'}
+  - {seq: 1, role: markers, filename: assets/KR3eq093_001-jc.markers.yaml, hash: 'sha256:7fb92fada454df5da1284d201f5c0cd2bc3a6516f210b2953c06f6822abdc580'}
+  - {seq: 2, role: markers, filename: assets/KR3eq093_002-jc.markers.yaml, hash: 'sha256:aa6189203df6e1404a8f2061d23b5c6da6f6196226b11a199c2d4f224b8ea5b8'}
+  - {seq: 3, role: markers, filename: assets/KR3eq093_003-jc.markers.yaml, hash: 'sha256:6e13e5cae938229caac92c8b0346abd16ffb2eff475e3ba60b5a5a462b50a299'}
+  - {seq: 4, role: markers, filename: assets/KR3eq093_004-jc.markers.yaml, hash: 'sha256:53b1bb005c0760e6d2fd8c05a65b59ba303ea83e90cd36f2a3e269cb4ae72a53'}
+  - {seq: 0, role: markers, filename: assets/KR3eq093_000-jc.markers.yaml, hash: 'sha256:b3d77b866a6d006801b91af938ba08cdcba864071d46603a68aa3ad477fe2bd9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq093_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 487
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq093_jc_000-d3.h1s1
+    span:
+    - front
+    - 487
+    - 960
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq093_jc_000-d4.h1s1
+    span:
+    - front
+    - 960
+    - 1425
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq093_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 378
+  label: 題辭
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq093_jc_000-d6.h1s1
+    span:
+    - body
+    - 378
+    - 1009
+  label: 例言
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.h1s1
+    span:
+    - body
+    - 0
+    - 19299
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d2
+    span:
+    - body
+    - 2
+    - 279
+  label: 學醫真詮
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d3
+    span:
+    - body
+    - 279
+    - 623
+  label: 湯頭歌不可泥
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d4
+    span:
+    - body
+    - 623
+    - 1097
+  label: 診脈下藥詩
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d5
+    span:
+    - body
+    - 1097
+    - 2068
+  label: 治病皆有主藥
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d6
+    span:
+    - body
+    - 2068
+    - 2362
+  label: 駁汪訒庵加減古方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d7
+    span:
+    - body
+    - 2362
+    - 2799
+  label: 治病要有把握有提綱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d8
+    span:
+    - body
+    - 2799
+    - 3328
+  label: 醫道亦從一貫得來
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d9
+    span:
+    - body
+    - 3328
+    - 4461
+  label: 金匱石室小脈案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d10
+    span:
+    - body
+    - 4461
+    - 4744
+  label: 醫道以氣運為主
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d11
+    span:
+    - body
+    - 4744
+    - 5238
+  label: 今日脈案與古稍異
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d12
+    span:
+    - body
+    - 5238
+    - 5958
+  label: 今日脈症有不甚相合者是今日氣運與古稍有變遷不可不知
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d13
+    span:
+    - body
+    - 5958
+    - 6264
+  label: 上焦虛火全在細加揣摩
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d14
+    span:
+    - body
+    - 6264
+    - 6522
+  label: 下焦虛火與上焦虛火
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d15
+    span:
+    - body
+    - 6522
+    - 6676
+  label: 虛火實火宜從寸頭上下分
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d16
+    span:
+    - body
+    - 6676
+    - 6902
+  label: 脈在上下指脈出本位言中焦該三部言虛甚脈當以中焦為主上下帶治方好
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d17
+    span:
+    - body
+    - 6902
+    - 7366
+  label: 古今氣運不同脈理亦異不從此處斬關奪隘無以見手法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d18
+    span:
+    - body
+    - 7366
+    - 7658
+  label: 今結胸症與古不同
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d19
+    span:
+    - body
+    - 7658
+    - 9400
+  label: 風火諸症脈論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d20
+    span:
+    - body
+    - 9400
+    - 9514
+  label: 脈學
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d21
+    span:
+    - body
+    - 9514
+    - 10008
+  label: 脈法續余歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d22
+    span:
+    - body
+    - 10008
+    - 12617
+  label: 脈不上竄不下流如此治
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d2
+    span:
+    - body
+    - 10018
+    - 10079
+  label: 二寸脈外倒
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d3
+    span:
+    - body
+    - 10079
+    - 10144
+  label: 二寸脈內倒
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d4
+    span:
+    - body
+    - 10144
+    - 10205
+  label: 肺脈心脈如針尖皆是虛火上炎
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d5
+    span:
+    - body
+    - 10205
+    - 10243
+  label: 包絡脈滯宜破心
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d6
+    span:
+    - body
+    - 10243
+    - 10324
+  label: 左尺堅硬宜服紫金丸
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d7
+    span:
+    - body
+    - 10324
+    - 10433
+  label: 男子尺寒熱藥不可通用
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d8
+    span:
+    - body
+    - 10433
+    - 10512
+  label: 男子尺寒宜用肉附湯還宜保養
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d9
+    span:
+    - body
+    - 10512
+    - 10556
+  label: 尺部熱甚非知柏不解
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d10
+    span:
+    - body
+    - 10556
+    - 10615
+  label: 腿疼有寒熱虛實之分
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d11
+    span:
+    - body
+    - 10615
+    - 10719
+  label: 肝胃疼痛用藥有分
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d12
+    span:
+    - body
+    - 10719
+    - 10781
+  label: 六脈如紙蒙是風寒凝滯於外
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d13
+    span:
+    - body
+    - 10781
+    - 10817
+  label: 肺部脈寬痰滯使然
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d14
+    span:
+    - body
+    - 10817
+    - 10855
+  label: 肺脈平而不動結在心口
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d15
+    span:
+    - body
+    - 10855
+    - 10910
+  label: 眼疼總要治肝
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d16
+    span:
+    - body
+    - 10910
+    - 10950
+  label: 眼疼因肝經結滯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d17
+    span:
+    - body
+    - 10950
+    - 10988
+  label: 頭疼因二寸結滯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d18
+    span:
+    - body
+    - 10988
+    - 11022
+  label: 右寸滯如麥屑
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d19
+    span:
+    - body
+    - 11022
+    - 11056
+  label: 左寸滯如麥屑
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d20
+    span:
+    - body
+    - 11056
+    - 11113
+  label: 隆冬疼痛多是陰風為病
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d21
+    span:
+    - body
+    - 11113
+    - 11164
+  label: 罐搬下焦能下婦人之氣
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d22
+    span:
+    - body
+    - 11164
+    - 11205
+  label: 六脈不動宜內外兼治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d23
+    span:
+    - body
+    - 11205
+    - 11278
+  label: 六脈不動宜內外透發
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d24
+    span:
+    - body
+    - 11278
+    - 11316
+  label: 終夜不眠由於下焦結滯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d25
+    span:
+    - body
+    - 11316
+    - 11351
+  label: 崩症由於肺經熱
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d26
+    span:
+    - body
+    - 11351
+    - 11399
+  label: 濕寒作熱久診方知
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d27
+    span:
+    - body
+    - 11399
+    - 11471
+  label: 女子二寸不可過於關脈
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d28
+    span:
+    - body
+    - 11471
+    - 11530
+  label: 老婦右尺全無右邊身疼不能食
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d29
+    span:
+    - body
+    - 11530
+    - 11610
+  label: 喉疼喉腫多是風寒
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d30
+    span:
+    - body
+    - 11610
+    - 11682
+  label: 治吐血不用血分藥亦是創治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d31
+    span:
+    - body
+    - 11682
+    - 11750
+  label: 少婦心脈結聚右腎腫硬
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d32
+    span:
+    - body
+    - 11750
+    - 11798
+  label: 左寸如錢治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d33
+    span:
+    - body
+    - 11798
+    - 11862
+  label: 癆嗽之脈尺寸皆無
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d34
+    span:
+    - body
+    - 11862
+    - 11916
+  label: 沉寒出汗必須內外兼治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d35
+    span:
+    - body
+    - 11916
+    - 11968
+  label: 氣惱之脈治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d36
+    span:
+    - body
+    - 11968
+    - 12002
+  label: 噦嘔不必脈竄
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d37
+    span:
+    - body
+    - 12002
+    - 12041
+  label: 虛實有即脈之兩邊而見者
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d38
+    span:
+    - body
+    - 12041
+    - 12074
+  label: 肺脈如針懸
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d39
+    span:
+    - body
+    - 12074
+    - 12122
+  label: 三部脈如皮錢
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d40
+    span:
+    - body
+    - 12122
+    - 12311
+  label: 治中毒一切禽獸肉毒皆是惡毒六脈沉細緊數
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d41
+    span:
+    - body
+    - 12311
+    - 12358
+  label: 中毒六脈浮洪宜飲二仙丹白礬明雄共為細末
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d42
+    span:
+    - body
+    - 12358
+    - 12449
+  label: 二便不通有從心肺治者
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d43
+    span:
+    - body
+    - 12449
+    - 12567
+  label: 女子上焦有病宜從經脈中治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d22d44
+    span:
+    - body
+    - 12567
+    - 12617
+  label: 婦人關腎無脈治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d23
+    span:
+    - body
+    - 12617
+    - 15088
+  label: 脈上竄下流如此治
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d2
+    span:
+    - body
+    - 12625
+    - 12692
+  label: 喉病肺脈上竄
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d3
+    span:
+    - body
+    - 12692
+    - 12727
+  label: 風火瘧子脈上顛
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d4
+    span:
+    - body
+    - 12727
+    - 12779
+  label: 虛癆中風脈上顛
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d5
+    span:
+    - body
+    - 12779
+    - 12822
+  label: 產前風症脈上顛
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d6
+    span:
+    - body
+    - 12822
+    - 12875
+  label: 牙疼用肉桂而愈
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d7
+    span:
+    - body
+    - 12875
+    - 12928
+  label: 牙酸用肉桂而愈
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d8
+    span:
+    - body
+    - 12928
+    - 12976
+  label: 脈有上竄下竄之分一定是火
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d9
+    span:
+    - body
+    - 12976
+    - 13067
+  label: 尺部熱極便下流
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d10
+    span:
+    - body
+    - 13067
+    - 13103
+  label: 耳疼多因脈竄而然
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d11
+    span:
+    - body
+    - 13103
+    - 13163
+  label: 濕熱下注脈拉尾巴
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d12
+    span:
+    - body
+    - 13163
+    - 13246
+  label: 脈拉尾巴有左右之分
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d13
+    span:
+    - body
+    - 13246
+    - 13326
+  label: 脈拉尾巴亦有虛熱而然者
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d14
+    span:
+    - body
+    - 13326
+    - 13380
+  label: 脈流左尺以下便當大瀉陰分
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d15
+    span:
+    - body
+    - 13380
+    - 13486
+  label: 脈貫中指宜分虛實中下亦然
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d16
+    span:
+    - body
+    - 13486
+    - 13537
+  label: 喉疼總要治肺
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d17
+    span:
+    - body
+    - 13537
+    - 13616
+  label: 二將軍能開風火之門牛黃散紫金丹為二將軍
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d18
+    span:
+    - body
+    - 13616
+    - 13667
+  label: 頭上諸病以除風為主
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d19
+    span:
+    - body
+    - 13667
+    - 13869
+  label: 脈出寸口以上必用行藥
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d20
+    span:
+    - body
+    - 13869
+    - 14015
+  label: 男子左尺下傳其初皆寒
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d21
+    span:
+    - body
+    - 14015
+    - 14049
+  label: 脈以和緩為高
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d22
+    span:
+    - body
+    - 14049
+    - 14185
+  label: 脈不知緩便為病
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d23
+    span:
+    - body
+    - 14185
+    - 14297
+  label: 久病脈竄下焦虛寒宜引氣歸元
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d24
+    span:
+    - body
+    - 14297
+    - 14433
+  label: 治病治上下以覆花赭石湯為例
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d25
+    span:
+    - body
+    - 14433
+    - 14505
+  label: 肝橫午後熱肝腎齊橫夜半熱治亦不同
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d26
+    span:
+    - body
+    - 14505
+    - 14726
+  label: 六部以上須要細察
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d27
+    span:
+    - body
+    - 14726
+    - 14934
+  label: 六部以下須要細察
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d23d28
+    span:
+    - body
+    - 14934
+    - 15088
+  label: 脈竄中指亦有寒積使然者不可用涼藥
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d24
+    span:
+    - body
+    - 15088
+    - 15374
+  label: 治病以劑脈之平脈平便無病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d25
+    span:
+    - body
+    - 15374
+    - 15610
+  label: 程國彭胃神根三字訣詩
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d26
+    span:
+    - body
+    - 15610
+    - 15726
+  label: 脈能洞見隱情須要細診
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d27
+    span:
+    - body
+    - 15726
+    - 15994
+  label: 富貴貧賤人用藥相同實不相同
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d28
+    span:
+    - body
+    - 15994
+    - 16205
+  label: 無脈之人多不死要與神色相參
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d29
+    span:
+    - body
+    - 16205
+    - 16443
+  label: 久病必須診脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d30
+    span:
+    - body
+    - 16443
+    - 16584
+  label: 左手無脈由相火敗壞
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d31
+    span:
+    - body
+    - 16584
+    - 16835
+  label: 肺脈如草節其人多痰亦是危症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d32
+    span:
+    - body
+    - 16835
+    - 16947
+  label: 各種祟脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d32d2
+    span:
+    - body
+    - 16839
+    - 16875
+  label: 手梢濕涼多有邪祟
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d32d3
+    span:
+    - body
+    - 16875
+    - 16913
+  label: 祟脈多戰戰
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d32d4
+    span:
+    - body
+    - 16913
+    - 16947
+  label: 祟脈有似電者
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d33
+    span:
+    - body
+    - 16947
+    - 17527
+  label: 各種難治之脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d33d2
+    span:
+    - body
+    - 16953
+    - 16988
+  label: 肝脈如繩者難治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d33d3
+    span:
+    - body
+    - 16988
+    - 17037
+  label: 肝脈如針者難治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d33d4
+    span:
+    - body
+    - 17037
+    - 17100
+  label: 肝胃軟弱皆難治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d33d5
+    span:
+    - body
+    - 17100
+    - 17152
+  label: 胃中雙脈如雙線者難治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d33d6
+    span:
+    - body
+    - 17152
+    - 17201
+  label: 胃脈如針者難治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d33d7
+    span:
+    - body
+    - 17201
+    - 17270
+  label: 胃中吸腰者難治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d33d8
+    span:
+    - body
+    - 17270
+    - 17327
+  label: 寸頭脈橫如線者難治右寸頭者居多
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d33d9
+    span:
+    - body
+    - 17327
+    - 17394
+  label: 左尺右尺硬如蘆管者難治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d33d10
+    span:
+    - body
+    - 17394
+    - 17455
+  label: 折腳之脈難治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d33d11
+    span:
+    - body
+    - 17455
+    - 17492
+  label: 腫脹脈如秫莛當難治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d33d12
+    span:
+    - body
+    - 17492
+    - 17527
+  label: 脈如蚯蚓者癱瘓
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d34
+    span:
+    - body
+    - 17527
+    - 18820
+  label: 各種死脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d2
+    span:
+    - body
+    - 17531
+    - 17696
+  label: 脈似除中者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d3
+    span:
+    - body
+    - 17696
+    - 17738
+  label: 胃脈中斷者必死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d4
+    span:
+    - body
+    - 17738
+    - 17774
+  label: 脈如灰里蚯蚓者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d5
+    span:
+    - body
+    - 17774
+    - 17808
+  label: 脈如皮條者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d6
+    span:
+    - body
+    - 17808
+    - 17842
+  label: 脈如牛槽者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d7
+    span:
+    - body
+    - 17842
+    - 17904
+  label: 脈如蘆管者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d8
+    span:
+    - body
+    - 17904
+    - 18014
+  label: 脈如秫莛者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d9
+    span:
+    - body
+    - 18014
+    - 18062
+  label: 脈如弓弦者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d10
+    span:
+    - body
+    - 18062
+    - 18133
+  label: 脈如牛筋者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d11
+    span:
+    - body
+    - 18133
+    - 18181
+  label: 脈如游魚者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d12
+    span:
+    - body
+    - 18181
+    - 18233
+  label: 脈如線繩者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d13
+    span:
+    - body
+    - 18233
+    - 18269
+  label: 吐血脈如蔥葉者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d14
+    span:
+    - body
+    - 18269
+    - 18304
+  label: 癆症脈似革者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d15
+    span:
+    - body
+    - 18304
+    - 18339
+  label: 蠱症脈如刀者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d16
+    span:
+    - body
+    - 18339
+    - 18383
+  label: 關尺火旺鼻如煙煤者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d17
+    span:
+    - body
+    - 18383
+    - 18417
+  label: 脾虛不動者死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d18
+    span:
+    - body
+    - 18417
+    - 18615
+  label: 病人無神者死脈無神者亦死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7.d34d19
+    span:
+    - body
+    - 18615
+    - 18820
+  label: 治病先看氣色吉凶亦可預知
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d35
+    span:
+    - body
+    - 18820
+    - 19038
+  label: 決死生外面亦當家
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq093_jc_001-d7d36
+    span:
+    - body
+    - 19038
+    - 19299
+  label: 脈理雖足憑間有不可憑者不可不知
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8.h1s1
+    span:
+    - body
+    - 0
+    - 24720
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d2
+    span:
+    - body
+    - 2
+    - 357
+  label: 古今用藥不同
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d3
+    span:
+    - body
+    - 357
+    - 820
+  label: 霸藥亦不可少
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d4
+    span:
+    - body
+    - 820
+    - 1074
+  label: 治病有先霸后王之不同
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d5
+    span:
+    - body
+    - 1074
+    - 1455
+  label: 病宜用金丹不論老弱貴賤
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d6
+    span:
+    - body
+    - 1455
+    - 1659
+  label: 治雜疾老病風藥行藥相輔而行
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d7
+    span:
+    - body
+    - 1659
+    - 1934
+  label: 雜貨湯歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d8
+    span:
+    - body
+    - 1934
+    - 2181
+  label: 夏秋之間用藥不得不雜
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d9
+    span:
+    - body
+    - 2181
+    - 2675
+  label: 吐法不可廢
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d10
+    span:
+    - body
+    - 2675
+    - 2823
+  label: 毒藥制好能治大病
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d11
+    span:
+    - body
+    - 2823
+    - 2945
+  label: 毒症非用毒藥不行
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d12
+    span:
+    - body
+    - 2945
+    - 3157
+  label: 病有風火濕寒之毒便須從此下手
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d13
+    span:
+    - body
+    - 3157
+    - 3344
+  label: 關格之症宜加二將軍以行之
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d14
+    span:
+    - body
+    - 3344
+    - 3692
+  label: 大藥引子甚是得力
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d15
+    span:
+    - body
+    - 3692
+    - 3844
+  label: 病在血分多從小腸而出不必另尋出路下法以此為正
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d16
+    span:
+    - body
+    - 3844
+    - 4005
+  label: 治病不必定用此病藥
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d17
+    span:
+    - body
+    - 4005
+    - 4165
+  label: 蠟匱金丹以治虛弱人亦有神效
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d18
+    span:
+    - body
+    - 4165
+    - 4279
+  label: 用藥真詮
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8.d18d2
+    span:
+    - body
+    - 4169
+    - 4279
+  label: 過燥過濡之藥久用便有變化
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d19
+    span:
+    - body
+    - 4279
+    - 4329
+  label: 正治不得必用反治
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d20
+    span:
+    - body
+    - 4329
+    - 4361
+  label: 丸藥真詮
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d21
+    span:
+    - body
+    - 4361
+    - 4419
+  label: 爛積丸
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d22
+    span:
+    - body
+    - 4419
+    - 4482
+  label: 四消丸
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d23
+    span:
+    - body
+    - 4482
+    - 4519
+  label: 丸藥用補必帶和方可
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d24
+    span:
+    - body
+    - 4519
+    - 4747
+  label: 時下小方亦有可取
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d25
+    span:
+    - body
+    - 4747
+    - 4930
+  label: 內治不得須外治
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d26
+    span:
+    - body
+    - 4930
+    - 5073
+  label: 金石之藥能涼血除風風火諸症宜用
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d27
+    span:
+    - body
+    - 5073
+    - 5161
+  label: 金石之藥治虛癆雜疾百藥不效者甚有奇驗
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d28
+    span:
+    - body
+    - 5161
+    - 5675
+  label: 巴豆贊非起盡油斷不可用
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d29
+    span:
+    - body
+    - 5675
+    - 6102
+  label: 大黃說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d30
+    span:
+    - body
+    - 6102
+    - 6366
+  label: 血症眼症多用大黃而愈者不可不知
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d31
+    span:
+    - body
+    - 6366
+    - 6724
+  label: 山甲可封平和將軍
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d32
+    span:
+    - body
+    - 6724
+    - 6891
+  label: 馬前子贊若有中其毒者飲香油自解
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d33
+    span:
+    - body
+    - 6891
+    - 6955
+  label: 斑蟊引子贊每用二枚研入藥中
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d34
+    span:
+    - body
+    - 6955
+    - 7176
+  label: 蓖麻治淋甚好蓖麻之性善於收斂故能開放無敵
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d35
+    span:
+    - body
+    - 7176
+    - 7333
+  label: 風毒堅硬用蜈蚣足不能治全蠍亦可
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d36
+    span:
+    - body
+    - 7333
+    - 7445
+  label: 人身之藥勝似草頭萬倍
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d37
+    span:
+    - body
+    - 7445
+    - 7547
+  label: 尿臊罐子治臀中惡毒
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d38
+    span:
+    - body
+    - 7547
+    - 7816
+  label: 細辛宜大用
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d39
+    span:
+    - body
+    - 7816
+    - 8101
+  label: 硫黃能治濕寒百病
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d40
+    span:
+    - body
+    - 8101
+    - 8306
+  label: 翻用大柴胡實與大柴胡相表裡
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d41
+    span:
+    - body
+    - 8306
+    - 8910
+  label: 麻黃桂枝湯不必泥
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d42
+    span:
+    - body
+    - 8910
+    - 9235
+  label: 駁汪訒庵譏陶節庵傷寒書
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d43
+    span:
+    - body
+    - 9235
+    - 9429
+  label: 傷寒雜病六字訣
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d44
+    span:
+    - body
+    - 9429
+    - 9979
+  label: 寒症亦不甚少
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d45
+    span:
+    - body
+    - 9979
+    - 10158
+  label: 傷寒初起治法有受寒中寒之分有三端者少有二端者多
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d46
+    span:
+    - body
+    - 10158
+    - 10740
+  label: 傷寒以解表為主未至胃府結實胃府結實脈必實大應指而起斷不可下
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8.d46d4
+    span:
+    - body
+    - 10682
+    - 10740
+  label: 烏附膏藥方
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d47
+    span:
+    - body
+    - 10740
+    - 10855
+  label: 傷寒傷風有分辨無大分辨總以表汗為主其異只在白芍耳
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d48
+    span:
+    - body
+    - 10855
+    - 10915
+  label: 傷寒有二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d49
+    span:
+    - body
+    - 10915
+    - 11019
+  label: 傷風有二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d50
+    span:
+    - body
+    - 11019
+    - 11124
+  label: 傷寒傷風有相兼而見者
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d51
+    span:
+    - body
+    - 11124
+    - 11337
+  label: 寒症有傷寒受寒中寒之分治亦不同
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d52
+    span:
+    - body
+    - 11337
+    - 11570
+  label: 風症有傷風受風中風之分治亦不同
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d53
+    span:
+    - body
+    - 11570
+    - 11698
+  label: 虛熱不盡風寒猶存宜發散兼收斂
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d54
+    span:
+    - body
+    - 11698
+    - 11847
+  label: 傷寒誤瀉必須再發散
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d55
+    span:
+    - body
+    - 11847
+    - 12077
+  label: 乾燒之症必須內外兼理
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d56
+    span:
+    - body
+    - 12077
+    - 12535
+  label: 人身寒熱有一摸手即得者
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d57
+    span:
+    - body
+    - 12535
+    - 12740
+  label: 痰涎為祟寒熱往來非用導吐法不行
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d58
+    span:
+    - body
+    - 12740
+    - 13030
+  label: 沉陰傷寒甚是難治
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d59
+    span:
+    - body
+    - 13030
+    - 13235
+  label: 傷寒瘟疫治法到底不同
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d60
+    span:
+    - body
+    - 13235
+    - 13571
+  label: 治瘟疫舌胎最當家
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d61
+    span:
+    - body
+    - 13571
+    - 13781
+  label: 風火濕寒交雜多是風木為祟
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d62
+    span:
+    - body
+    - 13781
+    - 14195
+  label: 治虛症以扶正氣為主
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d63
+    span:
+    - body
+    - 14195
+    - 14748
+  label: 治病以胃為主不論粗細人
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d64
+    span:
+    - body
+    - 14748
+    - 14903
+  label: 冒虛不可下
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d65
+    span:
+    - body
+    - 14903
+    - 15720
+  label: 補脾歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d66
+    span:
+    - body
+    - 15720
+    - 16488
+  label: 萬病皆以脾胃為主
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d67
+    span:
+    - body
+    - 16488
+    - 16629
+  label: 痰症多從外面而得
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d68
+    span:
+    - body
+    - 16629
+    - 16759
+  label: 病從飲食男女得者甚多
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d69
+    span:
+    - body
+    - 16759
+    - 17221
+  label: 凡治久病只論當下不必細問來由所謂君子而時中也
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d70
+    span:
+    - body
+    - 17221
+    - 17682
+  label: 虛癆陰熱之症非加補脾之藥必不愈欲加補脾之藥不瀉元府之陰熱斷不能加也此中斬關奪隘正是人鬼分界處全在眼明手快相其機宜而乘之耳
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d71
+    span:
+    - body
+    - 17682
+    - 18338
+  label: 癆病有色癆氣癆之分不可一例而觀
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d72
+    span:
+    - body
+    - 18338
+    - 18658
+  label: 虛癆陰熱用大黃原是創格有小心不敢用者只用山甲亦可
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d73
+    span:
+    - body
+    - 18658
+    - 18996
+  label: 呃逆之症盡由命根虧損不能引虛火歸元所致
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d74
+    span:
+    - body
+    - 18996
+    - 19290
+  label: 惡露水大治呃逆之症
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d75
+    span:
+    - body
+    - 19290
+    - 19472
+  label: 治癆嗽要補先天命門穴
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d76
+    span:
+    - body
+    - 19472
+    - 19696
+  label: 滑瀉之症非加三生飲不可
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d77
+    span:
+    - body
+    - 19696
+    - 19920
+  label: 學生二十之前後病以六味地黃湯為主藥再看所加
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d78
+    span:
+    - body
+    - 19920
+    - 20162
+  label: 補益必得仙人煉神還虛之意方好
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d79
+    span:
+    - body
+    - 20162
+    - 20591
+  label: 補益不可泥
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d80
+    span:
+    - body
+    - 20591
+    - 20767
+  label: 補益有陰陽之分不得泥住治一邊
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d81
+    span:
+    - body
+    - 20767
+    - 20825
+  label: 黨參黃耆白朮三藥定評
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d82
+    span:
+    - body
+    - 20825
+    - 21013
+  label: 補陰亦有至理終難驟見起色
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d83
+    span:
+    - body
+    - 21013
+    - 21099
+  label: 虛弱人能受陽藥猶易治
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d84
+    span:
+    - body
+    - 21099
+    - 21192
+  label: 補藥亦多聊舉一二以為例
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d85
+    span:
+    - body
+    - 21192
+    - 21548
+  label: 治病有即瀉為補者方能治此虛滯之症
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d86
+    span:
+    - body
+    - 21548
+    - 21748
+  label: 久病必須掃盡外症方可治其根本
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d87
+    span:
+    - body
+    - 21748
+    - 22082
+  label: 人有徹骨寒症縱用好藥一兩付不能了
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d88
+    span:
+    - body
+    - 22082
+    - 22305
+  label: 治遺泄之症老幼不同
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d89
+    span:
+    - body
+    - 22305
+    - 22616
+  label: 遺泄之症最難治
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d90
+    span:
+    - body
+    - 22616
+    - 23143
+  label: 血症不離地黃湯吐血之症三年不犯方算全愈不然猶不可測切宜保養
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d91
+    span:
+    - body
+    - 23143
+    - 23308
+  label: 治血症上下不同
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d92
+    span:
+    - body
+    - 23308
+    - 23520
+  label: 吐血因遺精而得者甚多
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d93
+    span:
+    - body
+    - 23520
+    - 23776
+  label: 病有所以然須從此處去治
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d94
+    span:
+    - body
+    - 23776
+    - 24063
+  label: 吐血之症只宜清補而已一見熱藥便吐
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d95
+    span:
+    - body
+    - 24063
+    - 24175
+  label: 山中之藥能壯筋骨服壯之人宜用
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d96
+    span:
+    - body
+    - 24175
+    - 24329
+  label: 水中之物能眠陽虛癆之人宜用
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d97
+    span:
+    - body
+    - 24329
+    - 24423
+  label: 海龍能補陰回陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d98
+    span:
+    - body
+    - 24423
+    - 24465
+  label: 平地有二物亦能眠陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq093_jc_002-d8d99
+    span:
+    - body
+    - 24465
+    - 24720
+  label: 養病歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9.h1s1
+    span:
+    - body
+    - 0
+    - 14761
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d2
+    span:
+    - body
+    - 2
+    - 319
+  label: 調氣總歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d3
+    span:
+    - body
+    - 319
+    - 538
+  label: 丹溪治病以調氣為先
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d4
+    span:
+    - body
+    - 538
+    - 727
+  label: 治病以調氣為主即調血亦調血中之氣也故以調氣名之
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d5
+    span:
+    - body
+    - 727
+    - 943
+  label: 順氣調氣下氣有三法惟下氣為最難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d6
+    span:
+    - body
+    - 943
+    - 1288
+  label: 年老有積亦當攻伐
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d7
+    span:
+    - body
+    - 1288
+    - 1410
+  label: 年老補瀉並用亦是治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d8
+    span:
+    - body
+    - 1410
+    - 1562
+  label: 老人疼痛多是氣虛生痰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d9
+    span:
+    - body
+    - 1562
+    - 1736
+  label: 治病先治肝
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d10
+    span:
+    - body
+    - 1736
+    - 2260
+  label: 雜病多在陰分宜從陰分尋出路大病久病亦然
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d11
+    span:
+    - body
+    - 2260
+    - 2445
+  label: 金丹亦能解表
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d12
+    span:
+    - body
+    - 2445
+    - 2718
+  label: 治病須要兼風藥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d13
+    span:
+    - body
+    - 2718
+    - 2944
+  label: 治病風藥斷不可少
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d14
+    span:
+    - body
+    - 2944
+    - 3292
+  label: 肝經虛弱反生橫決之病非補不行
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d15
+    span:
+    - body
+    - 3292
+    - 3415
+  label: 肝木虛橫只宜補脾脾土一旺肝自收斂不敢與土為敵矣雖不補肝而補肝之理自寓焉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d16
+    span:
+    - body
+    - 3415
+    - 3604
+  label: 肝經治之不得宜從脾土下手
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d17
+    span:
+    - body
+    - 3604
+    - 3807
+  label: 頭上諸症以牛黃散為主藥紫金丹亦可
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d18
+    span:
+    - body
+    - 3807
+    - 3920
+  label: 頭上清涼發散必兼流行始妙
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d19
+    span:
+    - body
+    - 3920
+    - 4101
+  label: 如今病以治風為主
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d20
+    span:
+    - body
+    - 4101
+    - 4259
+  label: 頭上諸症亦有陰毒結就
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d21
+    span:
+    - body
+    - 4259
+    - 4411
+  label: 牙疼有假火
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d22
+    span:
+    - body
+    - 4411
+    - 4566
+  label: 治咽喉諸症宜分虛實
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d23
+    span:
+    - body
+    - 4566
+    - 4812
+  label: 咽喉兩邊有硬根多是陰毒結就成
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d24
+    span:
+    - body
+    - 4812
+    - 5118
+  label: 治今喉症以除風為主
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d25
+    span:
+    - body
+    - 5118
+    - 5514
+  label: 少年人喉疼多是寒症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d26
+    span:
+    - body
+    - 5514
+    - 5910
+  label: 婦人喉症因陰虛而得者不少
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d27
+    span:
+    - body
+    - 5910
+    - 6188
+  label: 風火上壅咳嗽不已在本人皆以為寒豈知因濕生熱因熱生風往往如此不可不知
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d28
+    span:
+    - body
+    - 6188
+    - 6489
+  label: 隆冬驟得寒嗽皆是風毒為祟治以馬前丸為最
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d29
+    span:
+    - body
+    - 6489
+    - 6676
+  label: 症雜藥雜有先後遞用者
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d30
+    span:
+    - body
+    - 6676
+    - 6919
+  label: 白露前後病同治不同
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d31
+    span:
+    - body
+    - 6919
+    - 7083
+  label: 夏秋吐瀉交加雖甚危殆補藥宜慎
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d32
+    span:
+    - body
+    - 7083
+    - 7463
+  label: 病尋出路宜順勢而導之
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d33
+    span:
+    - body
+    - 7463
+    - 7698
+  label: 病在上取諸下病在下取諸上皆是要著
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d34
+    span:
+    - body
+    - 7698
+    - 7838
+  label: 治病須要順時令
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d35
+    span:
+    - body
+    - 7838
+    - 8004
+  label: 治病要臨時得竅不論好歹藥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d36
+    span:
+    - body
+    - 8004
+    - 8145
+  label: 治病有標本之殊
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d37
+    span:
+    - body
+    - 8145
+    - 8394
+  label: 心中虛滿與實症不同只宜空中著眼方見手法又有隔二隔三治法不可不知
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d38
+    span:
+    - body
+    - 8394
+    - 8581
+  label: 腑病治臟臟病治腑原自相通
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d39
+    span:
+    - body
+    - 8581
+    - 8721
+  label: 臟腑之病不同治法亦異
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d40
+    span:
+    - body
+    - 8721
+    - 9068
+  label: 中秋人有疼痛噦瀉皆是伏暑未盡看似寒症不可遽以寒論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d41
+    span:
+    - body
+    - 9068
+    - 9585
+  label: 寒噦火噦皆因氣虛統不住宜健脾為主餘隻帶治
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d42
+    span:
+    - body
+    - 9585
+    - 10049
+  label: 治瘧以平肝為主
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d43
+    span:
+    - body
+    - 10049
+    - 10382
+  label: 瘧疾不易治要有把握以傷寒瘟疫雜症括盡治瘧之理是我家創治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d44
+    span:
+    - body
+    - 10382
+    - 10755
+  label: 治痢積以濕熱論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d45
+    span:
+    - body
+    - 10755
+    - 11005
+  label: 治痢以平肝為主
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d46
+    span:
+    - body
+    - 11005
+    - 11241
+  label: 濕熱已久內里必有綠水藏在元府之裡宜細治之
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d47
+    span:
+    - body
+    - 11241
+    - 11596
+  label: 病脈與病症一一相合尤須細治
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d48
+    span:
+    - body
+    - 11596
+    - 11784
+  label: 濕腫非兼巴霜不可宜相虛實量加之
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d49
+    span:
+    - body
+    - 11784
+    - 11824
+  label: 小腹微腫有邊是有水氣宜瀉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d50
+    span:
+    - body
+    - 11824
+    - 12005
+  label: 大寒結滯不宜用行藥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d51
+    span:
+    - body
+    - 12005
+    - 12278
+  label: 陰黃陽黃治法有辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d52
+    span:
+    - body
+    - 12278
+    - 12467
+  label: 治腿以破小腸為主
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d53
+    span:
+    - body
+    - 12467
+    - 12721
+  label: 腿疼即弱症亦須先行後補
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d54
+    span:
+    - body
+    - 12721
+    - 12844
+  label: 治腿疼痛離不了金丹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d55
+    span:
+    - body
+    - 12844
+    - 12967
+  label: 疝症皆起於濕寒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d56
+    span:
+    - body
+    - 12967
+    - 13080
+  label: 治疝氣方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d57
+    span:
+    - body
+    - 13080
+    - 13471
+  label: 膽顫心寒症治方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d58
+    span:
+    - body
+    - 13471
+    - 13594
+  label: 陰寒就是大毒物
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d59
+    span:
+    - body
+    - 13594
+    - 13744
+  label: 痛癢本於濕寒非用熱藥毒藥亦不能了
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d60
+    span:
+    - body
+    - 13744
+    - 13805
+  label: 濕熱創治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d61
+    span:
+    - body
+    - 13805
+    - 14261
+  label: 治濕寒方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d62
+    span:
+    - body
+    - 14261
+    - 14429
+  label: 濕寒雜疾宜用雷火再進丸藥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d63
+    span:
+    - body
+    - 14429
+    - 14597
+  label: 治酒病有先熱後寒之分
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq093_jc_003-d9d64
+    span:
+    - body
+    - 14597
+    - 14761
+  label: 治沉寒必須重加透澈藥始得
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10.h1s1
+    span:
+    - body
+    - 0
+    - 22626
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d2
+    span:
+    - body
+    - 2
+    - 679
+  label: 婦人之病多於男子
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d3
+    span:
+    - body
+    - 679
+    - 835
+  label: 治病男女皆同只有胎前產後之分
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d4
+    span:
+    - body
+    - 835
+    - 1172
+  label: 婦人之病皆由左尺凝滯
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d5
+    span:
+    - body
+    - 1172
+    - 1331
+  label: 痰滯胸膈便不生育
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d6
+    span:
+    - body
+    - 1331
+    - 1757
+  label: 經脈之病皆從肝經起而調經之法不專在此也
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d7
+    span:
+    - body
+    - 1757
+    - 2124
+  label: 胎病交加只要治病不必安胎病去胎自安耳
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d8
+    span:
+    - body
+    - 2124
+    - 2373
+  label: 治孕婦前後不同
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d9
+    span:
+    - body
+    - 2373
+    - 2521
+  label: 孕婦脈結下部為憑
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d10
+    span:
+    - body
+    - 2521
+    - 2690
+  label: 孕婦禁忌有宜遵者有不宜遵者
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d11
+    span:
+    - body
+    - 2690
+    - 2890
+  label: 治孕婦不必多忌諱
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d12
+    span:
+    - body
+    - 2890
+    - 3117
+  label: 產前風症甚多治法以此為例
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d13
+    span:
+    - body
+    - 3117
+    - 3149
+  label: 伏虎丹方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d14
+    span:
+    - body
+    - 3149
+    - 3229
+  label: 治產前風一則並寒痰墜胎一則
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d15
+    span:
+    - body
+    - 3229
+    - 3418
+  label: 產前風治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d16
+    span:
+    - body
+    - 3418
+    - 3540
+  label: 催生用發散是創格
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d17
+    span:
+    - body
+    - 3540
+    - 3710
+  label: 隆冬產生大宜發散
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d18
+    span:
+    - body
+    - 3710
+    - 3850
+  label: 產後見飯煩惱宜用熱補
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d19
+    span:
+    - body
+    - 3850
+    - 4003
+  label: 產婦氣色宜慘淡
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d20
+    span:
+    - body
+    - 4003
+    - 4150
+  label: 產後風治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d21
+    span:
+    - body
+    - 4150
+    - 4311
+  label: 產後風症宜用厲劑以勝之
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d22
+    span:
+    - body
+    - 4311
+    - 4368
+  label: 治產後搐風一則
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d23
+    span:
+    - body
+    - 4368
+    - 4774
+  label: 產後風症宜出汗與尋常傷寒傷風無二理不必以方中用白芍為疑
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d24
+    span:
+    - body
+    - 4774
+    - 5041
+  label: 產後指南歌括
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d25
+    span:
+    - body
+    - 5041
+    - 5145
+  label: 虛中不足虛中有餘證見
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d26
+    span:
+    - body
+    - 5145
+    - 5331
+  label: 三急三沖證見三急是虛中不足三沖是虛中有餘
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d27
+    span:
+    - body
+    - 5331
+    - 5411
+  label: 產後小腹疼六脈強硬沉取則無此虛中寒也宜補氣養血溫中
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d28
+    span:
+    - body
+    - 5411
+    - 5467
+  label: 產後溏泄宜補氣澀腸
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d29
+    span:
+    - body
+    - 5467
+    - 5526
+  label: 產後去血過多內外大熱外症色白宜補血生水以制火
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d30
+    span:
+    - body
+    - 5526
+    - 5587
+  label: 產後口吐清水腹內疼痛宜補氣溫中兼調氣
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d31
+    span:
+    - body
+    - 5587
+    - 5629
+  label: 脫花煎治胞衣來遲
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d32
+    span:
+    - body
+    - 5629
+    - 5682
+  label: 生化湯能去舊生新誠產後要藥
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d33
+    span:
+    - body
+    - 5682
+    - 5732
+  label: 加味芎歸湯善能催生兼治產後諸症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d34
+    span:
+    - body
+    - 5732
+    - 5787
+  label: 產後宜忌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d35
+    span:
+    - body
+    - 5787
+    - 5849
+  label: 加味四物湯
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d36
+    span:
+    - body
+    - 5849
+    - 5904
+  label: 加味四君子湯治產後傷食外症脹悶
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d37
+    span:
+    - body
+    - 5904
+    - 5948
+  label: 血虛者益其氣
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d38
+    span:
+    - body
+    - 5948
+    - 6068
+  label: 產後諸症只以治產後為主
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d39
+    span:
+    - body
+    - 6068
+    - 6163
+  label: 產後脈與尋常不同
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d40
+    span:
+    - body
+    - 6163
+    - 6513
+  label: 月間疾宜從月內治滿了月便宜用丸藥莫用湯俟他壯實一藥而愈
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d41
+    span:
+    - body
+    - 6513
+    - 7049
+  label: 治濕寒作熱雜疾
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d42
+    span:
+    - body
+    - 7049
+    - 7116
+  label: 噙化丸治咽喉干疼
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d43
+    span:
+    - body
+    - 7116
+    - 7151
+  label: 馬前服壯丸方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d44
+    span:
+    - body
+    - 7151
+    - 7319
+  label: 婦人帶症難治
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d45
+    span:
+    - body
+    - 7319
+    - 7417
+  label: 少婦寡婦經滯宜細治
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d46
+    span:
+    - body
+    - 7417
+    - 7724
+  label: 崩漏脫血宜大用黨參黃耆以治之
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d47
+    span:
+    - body
+    - 7724
+    - 7974
+  label: 診小兒脈與大人同
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d48
+    span:
+    - body
+    - 7974
+    - 8275
+  label: 治嬰童診脈下藥歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d49
+    span:
+    - body
+    - 8275
+    - 8352
+  label: 牛黃散方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d50
+    span:
+    - body
+    - 8352
+    - 8419
+  label: 紫金丹方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d51
+    span:
+    - body
+    - 8419
+    - 8611
+  label: 用金丹以埋伏為妙著牛黃散以此為例
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d52
+    span:
+    - body
+    - 8611
+    - 8802
+  label: 小兒風症最多
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d53
+    span:
+    - body
+    - 8802
+    - 8853
+  label: 小兒風症有不可治者
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d54
+    span:
+    - body
+    - 8853
+    - 8992
+  label: 小兒風火症以牛黃散為主藥
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d55
+    span:
+    - body
+    - 8992
+    - 9120
+  label: 小兒月內風皆不治
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d56
+    span:
+    - body
+    - 9120
+    - 9174
+  label: 附錄治撮口風方此方甚佳吾初未見此方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d57
+    span:
+    - body
+    - 9174
+    - 9337
+  label: 治小兒羊羔風並大人痰厥
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d58
+    span:
+    - body
+    - 9337
+    - 9573
+  label: 小兒一切風火症皆以平肝為先
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d59
+    span:
+    - body
+    - 9573
+    - 9631
+  label: 童子肝腎受寒
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d60
+    span:
+    - body
+    - 9631
+    - 9705
+  label: 小兒肝經受寒多瀉綠水
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d61
+    span:
+    - body
+    - 9705
+    - 9792
+  label: 小兒剝腸瀉大宜通利
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d62
+    span:
+    - body
+    - 9792
+    - 10012
+  label: 小兒濕寒作熱以尿罐上霜為上藥
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d63
+    span:
+    - body
+    - 10012
+    - 10295
+  label: 小兒寒熱噦瀉與大人同治
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d64
+    span:
+    - body
+    - 10295
+    - 10530
+  label: 小兒痞塊難治
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d65
+    span:
+    - body
+    - 10530
+    - 10724
+  label: 小兒痞積宜用吃饃藥補破並行雖用藥不顯藥無不愈者即是大人虛癆雜疾以此治之無有不可
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d66
+    span:
+    - body
+    - 10724
+    - 10892
+  label: 小兒痞塊膏藥方寒熱各有所宜大人用此貼病亦必以此為例
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d67
+    span:
+    - body
+    - 10892
+    - 11088
+  label: 小兒喉症風寒最多大人亦然非真紅如珊瑚或紫或白或淡紅皆是風濕寒邪作熱不可認為實火以致不救
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d68
+    span:
+    - body
+    - 11088
+    - 11254
+  label: 小兒馬牙一月之內最有關係
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d69
+    span:
+    - body
+    - 11254
+    - 11630
+  label: 紅糖治病最多
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d70
+    span:
+    - body
+    - 11630
+    - 11801
+  label: 山楂治老幼之滯甚好
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d71
+    span:
+    - body
+    - 11801
+    - 12080
+  label: 眼科不知脈理斷乎不可
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d72
+    span:
+    - body
+    - 12080
+    - 12823
+  label: 眼科摘取數方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d73
+    span:
+    - body
+    - 12823
+    - 13784
+  label: 眼科五訣
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d74
+    span:
+    - body
+    - 13784
+    - 13878
+  label: 眼藥加減真法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d75
+    span:
+    - body
+    - 13878
+    - 13957
+  label: 老年羸弱之眼亦有用補者
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d76
+    span:
+    - body
+    - 13957
+    - 14188
+  label: 眼疾初起多是風火大黃宜慎用
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d77
+    span:
+    - body
+    - 14188
+    - 14515
+  label: 治眼須要論五行眼疾已久須依此法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d78
+    span:
+    - body
+    - 14515
+    - 14767
+  label: 莊農人家治眼要訣
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d79
+    span:
+    - body
+    - 14767
+    - 14977
+  label: 眼中瘀肉色紫多是寒症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d80
+    span:
+    - body
+    - 14977
+    - 15185
+  label: 壞眼之症多是陰毒結就
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d81
+    span:
+    - body
+    - 15185
+    - 15790
+  label: 外科按脈吃藥自好切勿輕用刀針
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d82
+    span:
+    - body
+    - 15790
+    - 16348
+  label: 外科不知純陰之症甚多
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d83
+    span:
+    - body
+    - 16348
+    - 16673
+  label: 治瘡先辨陰陽為主
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d84
+    span:
+    - body
+    - 16673
+    - 17846
+  label: 治瘡用藥真詮
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d85
+    span:
+    - body
+    - 17846
+    - 17974
+  label: 治瘡須要顧脾胃
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d86
+    span:
+    - body
+    - 17974
+    - 18244
+  label: 瘡症堅硬宜用熱補透發方可收功
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d87
+    span:
+    - body
+    - 18244
+    - 18313
+  label: 治腫硬疙瘩先以烏金膏蓋頂外用此藥箍之無不消散
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d88
+    span:
+    - body
+    - 18313
+    - 18364
+  label: 治腫硬外毒
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d89
+    span:
+    - body
+    - 18364
+    - 18494
+  label: 治前後照以治楊梅甚好一切餘毒不用說矣
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d90
+    span:
+    - body
+    - 18494
+    - 18679
+  label: 神燈照治頭上諸瘡
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d91
+    span:
+    - body
+    - 18679
+    - 18742
+  label: 治瘡無頭
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d92
+    span:
+    - body
+    - 18742
+    - 18807
+  label: 砭法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d93
+    span:
+    - body
+    - 18807
+    - 18864
+  label: 治渾身瘡爛流水日久不愈
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d94
+    span:
+    - body
+    - 18864
+    - 18989
+  label: 治久漏久痔諸症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d95
+    span:
+    - body
+    - 18989
+    - 19043
+  label: 補中益氣湯治一切氣虛下陷之症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d96
+    span:
+    - body
+    - 19043
+    - 19161
+  label: 婦人乳瘡治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d97
+    span:
+    - body
+    - 19161
+    - 19389
+  label: 治女乳男腎均宜溫補切戒清涼
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d98
+    span:
+    - body
+    - 19389
+    - 19533
+  label: 疔瘡初起治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d99
+    span:
+    - body
+    - 19533
+    - 19566
+  label: 紅絲疔治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d100
+    span:
+    - body
+    - 19566
+    - 19601
+  label: 手指腳指疔治法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d101
+    span:
+    - body
+    - 19601
+    - 19677
+  label: 治蛇頭疔一則
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d102
+    span:
+    - body
+    - 19677
+    - 19713
+  label: 治疔毒黑紫
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d103
+    span:
+    - body
+    - 19713
+    - 19854
+  label: 艾火灸法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d104
+    span:
+    - body
+    - 19854
+    - 19920
+  label: 內服普濟消毒飲
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d105
+    span:
+    - body
+    - 19920
+    - 19986
+  label: 護心丹井口疽生於心口宜多用他症恐毒入心亦用之
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d106
+    span:
+    - body
+    - 19986
+    - 20081
+  label: 衛生湯歌方見前
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d107
+    span:
+    - body
+    - 20081
+    - 20180
+  label: 疔瘡惡毒膏藥貼一切惡毒不用麵子藥一日一換便好
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d108
+    span:
+    - body
+    - 20180
+    - 20221
+  label: 柳花散
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d109
+    span:
+    - body
+    - 20221
+    - 20266
+  label: 治疥瘡
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d110
+    span:
+    - body
+    - 20266
+    - 20312
+  label: 治乾疥
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d111
+    span:
+    - body
+    - 20312
+    - 20422
+  label: 治婦人陰癢法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d112
+    span:
+    - body
+    - 20422
+    - 20497
+  label: 治跌打損傷以大便為憑
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d113
+    span:
+    - body
+    - 20497
+    - 20574
+  label: 一釐散治傷損不起最佳
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d114
+    span:
+    - body
+    - 20574
+    - 20636
+  label: 七釐散治一切傷症孕婦忌服
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d115
+    span:
+    - body
+    - 20636
+    - 20687
+  label: 生肌散
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d116
+    span:
+    - body
+    - 20687
+    - 20778
+  label: 治肢體傷折法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d117
+    span:
+    - body
+    - 20778
+    - 20928
+  label: 燒靈藥方瘡不聯口非此不愈夜靜始燒忌婦人雞犬之聲
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d118
+    span:
+    - body
+    - 20928
+    - 21325
+  label: 邪祟中人男女有分
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d119
+    span:
+    - body
+    - 21325
+    - 22039
+  label: 治邪以針為先
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d120
+    span:
+    - body
+    - 22039
+    - 22092
+  label: 琥珀散
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d121
+    span:
+    - body
+    - 22092
+    - 22148
+  label: 熏法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d122
+    span:
+    - body
+    - 22148
+    - 22174
+  label: 制火針法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d123
+    span:
+    - body
+    - 22174
+    - 22211
+  label: 製藥酒法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d124
+    span:
+    - body
+    - 22211
+    - 22442
+  label: 邪症宜散風清火
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq093_jc_004-d10d125
+    span:
+    - body
+    - 22442
+    - 22626
+  label: 治邪症以導痰為主
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq093_jc_000-d11.h1s1
+    span:
+    - body
+    - 0
+    - 283
+  label: 書後
+  type: section
+  level: 1
+hash: sha256:9e50891264d12df5016d231e7ad4252d23648d5f71038cb183bc7ef38e641b86

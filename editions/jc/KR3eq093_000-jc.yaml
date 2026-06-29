@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3eq093/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 書後上蠢子醫四卷陽夏龍繪堂先生晚年所著教其孫兌山者也兌山少孤先生恐醫學失傳因本平日心得而經驗者演為詩歌不避淺俗取便記誦而已先生既沒兌山與其從父君由皆得力是書遂以醫名世親友爭相傳鈔屢擬付梓不果嘗呈政於縣長榆山朱潛齋先生今秋吾項縣誌將竣兌山橐書來求吾師仲唐先生及友人施君虞琴等參訂校正付諳石印餘本不諸此道然以兌山之託義不容辭謹按其原卷各以類從稍為次其先後至其病論藥方或簡括難曉並請兌山口述而附註焉欲便閱者非敢妄事贅述也獨是先生此書多出創穫神而明之存乎其人兌山幼承家學數十年慄慄恐墜又不私為己有欲公同好以廣其傳可謂克繩祖武者矣甲寅仲冬項城後學張三寶謹書於周濱張氏別墅縣誌局
+  hash: sha256:08065eb09c44f43530b2e2b72a93cd5dca89fc89f7f8843aff30148ca5b6afed
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eq093_jc_000-d11.h1s1}
+metadata:
+  title: 蠢子醫
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq093.xml
+hash: sha256:2e5e9f78c01221daf79895e6d4c4c6aa9ab37e028d43e920d040624e91f1d771
